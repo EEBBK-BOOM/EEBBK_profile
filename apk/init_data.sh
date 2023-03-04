@@ -41,7 +41,7 @@ time='2023年1月28号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    Download -gh 'r-packageinstalles.apk' "$1.apk" '1647631' 'e6df20581cec49d20c4d799e904fdd5e' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'r-packageinstalles.apk' "$1.apk" '1647631' 'e6df20581cec49d20c4d799e904fdd5e' "$1.apk"
 ;;
 
 com.aistra.hail)

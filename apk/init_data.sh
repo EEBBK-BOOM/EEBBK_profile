@@ -30,17 +30,6 @@ time='2020年7月7号'
     [[ $Choice = 1 ]] && Download -boom 'apkinstaller.apk' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
 ;;
 
-com.yxer.packageinstalles)
-apk='com.yxer.packageinstalles'
-name='R-安装组件'
-version='2.6.2-beta'
-versionCode=286
-author='L'
-description='安装第三方软件'
-time='2023年1月28号'
-    [[ $Choice = 1 ]] && Download -boom 'r-packageinstalles.apk' "$1.apk" '1647631' 'e6df20581cec49d20c4d799e904fdd5e' "$1.apk"
-;;
-
 com.aistra.hail)
 apk='com.aistra.hail'
 name='雹'

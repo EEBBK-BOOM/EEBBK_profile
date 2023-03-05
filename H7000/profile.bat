@@ -1,0 +1,12 @@
+@ECHO OFF
+set link=https://eebbk-boom.github.io/EEBBK_profile/H7000/
+set stock_boot=%link%boot.7z
+set twrp_1=%link%twrp.7z.001
+set twrp_2=%link%twrp.7z.002
+set twrp_3=%link%twrp.7z.003
+set msic_stock=%link%misc_stock.bin
+set msic_rec=%link%misc_recovery.bin
+set elf=prog_emmc_firehose_Sdm660_ddr.elf
+set prog=%link%%elf%
+set checksum_twrp=3DAB9D12
+set checksum_boot=4DA4D231

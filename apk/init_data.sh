@@ -63,7 +63,7 @@ versionCode=31
 author='张海'
 description='管理Android设备文件'
 time='2022年5月16号'
-    [[ $Choice = 1 ]] && Download -gh 'file.apk' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'files.apk' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
 ;;
 
 com.x7890.shortcutcreator)

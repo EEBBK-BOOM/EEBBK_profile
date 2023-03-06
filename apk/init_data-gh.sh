@@ -94,7 +94,7 @@ version='4.0.0'
 versionCode=703
 author='chengkai'
 description='浏览器'
-time='2023年2月24号'
+time='2023年3月6号'
     [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.0(703).apk' "$1.apk" '1118830' '3a7d448423292a97ce279e2a6b87abb1' "$1.apk"
 ;;
 

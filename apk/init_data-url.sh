@@ -16,17 +16,17 @@ versionCode='25200'
 author='John Wu'
 description='Magisk Manager'
 time='2022年7月20号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2022/10/05/LycN8xREFE2T2xUO_Magisk-25.2.apk' "$1.apk" '11278270' '278576ca7483716bcbc16af7cff268bd' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=com.topjohnwu.magisk&id=MTA0MDMz&h=43d7a01frr7plm&from=click' "$1.apk" '11278270' '278576ca7483716bcbc16af7cff268bd' "$1.apk"
 ;;
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.2.1.r969.7bde35a'
-versionCode='969'
+version='13.2.1.r958.5f9516b'
+versionCode='958'
 author='Rikka'
 description='系统API授权'
-time='2023年3月5号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/sMXuXWR4rNIGpovV_shizuku-v13.2.1.r969.7bde35a.apk' "$1.apk" '3575621' '4fc17c29235cca870364b7059cabe248' "$1.apk"
+time='2023年2月3号'
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=moe.shizuku.privileged.api&id=MTQyNzQ1&h=2ea3cd3drr7pjg&from=click' "$1.apk" '3575621' '4fc17c29235cca870364b7059cabe248' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)
@@ -37,7 +37,7 @@ versionCode=42
 author='dadaewq'
 description='安装第三方软件'
 time='2020年7月7号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/01/24/iNrhUGxnOB4TLIH5_apkinstaller.apk' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=com.modosa.apkinstaller&id=MjMxOTM4&h=c98e3d55rr7pmp&from=click' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
 ;;
 
 com.yxer.packageinstalles)
@@ -62,7 +62,7 @@ versionCode='24'
 author='艾星Aistra'
 description='冻结软件'
 time='2023年3月1号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/mZNPDdwiIlQbC3dV_hail_1.2.1(24).apk' "$1.apk" '2621492' '1434387f44f926514227603c2e01cd9e' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=com.aistra.hail&id=Mjg3MDIw&h=86506a67rr7ppi&from=click' "$1.apk" '2621492' '1434387f44f926514227603c2e01cd9e' "$1.apk"
 ;;
 
 me.zhanghai.android.files)
@@ -73,7 +73,7 @@ versionCode=31
 author='张海'
 description='管理Android设备文件'
 time='2022年5月16号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/0Yi9C6e6juTjCjU0_files_1.5.2(31).apk' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=me.zhanghai.android.files&id=MjMxNzc1&h=cc47d3berr7pqh&from=click' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
 ;;
 
 com.x7890.shortcutcreator)
@@ -95,7 +95,7 @@ versionCode=703
 author='chengkai'
 description='浏览器'
 time='2023年3月6号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/IqQFpPmCRCdf9fkx_xbrowser_4.0.0(703).apk' "$1.apk" '1118830' '3a7d448423292a97ce279e2a6b87abb1' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://dl.coolapk.com/down?pn=com.mmbox.xbrowser&id=MTUwOTA&h=f1a894a8rr7pr4&from=click' "$1.apk" '1118830' '3a7d448423292a97ce279e2a6b87abb1' "$1.apk"
 ;;
 
 exit_sideload)

@@ -89,7 +89,7 @@ time='2019年2月2号'
 
 mark.via)
 apk='mark.via'
-name='via'
+name='Via'
 version='4.5.1'
 versionCode=20230222
 author='various'

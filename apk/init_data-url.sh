@@ -84,7 +84,7 @@ versionCode=117
 author='x7890'
 description='快捷打开系统隐藏的活动/系统设置选项'
 time='2019年2月2号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/01/24/gWLN9wrGJRsZt70k_shortcutcreator.apk' "$1.apk" '1329110' '91603438038865745cfd3301debca1d3' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/16/jci7x1GpiBQ0urtm_shortcutcreator.apk' "$1.apk" '1329110' '91603438038865745cfd3301debca1d3' "$1.apk"
 ;;
 
 mark.via)

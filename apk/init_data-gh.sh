@@ -106,7 +106,7 @@ versionCode=706
 author='chengkai'
 description='浏览器'
 time='2023年3月16号'
-    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.1(706).apk' "$1.apk" '1118830' '3a7d448423292a97ce279e2a6b87abb1' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.1(706).apk' "$1.apk" '1147549' '15d85e57ef5168828e7a78b90ccdf903' "$1.apk"
 ;;
 
 exit_sideload)

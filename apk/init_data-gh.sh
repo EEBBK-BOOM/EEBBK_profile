@@ -12,7 +12,7 @@ com.topjohnwu.magisk)
 apk='com.topjohnwu.magisk'
 name='Magisk'
 version='25.2'
-versionCode='25200'
+versionCode=25200
 author='John Wu'
 description='Magisk Manager'
 time='2022年7月20号'
@@ -22,7 +22,7 @@ moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
 version='13.2.1.r969.7bde35a'
-versionCode='969'
+versionCode=969
 author='Rikka'
 description='系统API授权'
 time='2023年3月5号'
@@ -57,12 +57,12 @@ time='2023年1月28号'
 com.aistra.hail)
 apk='com.aistra.hail'
 name='雹'
-version='1.2.1'
-versionCode='24'
+version='1.2.2'
+versionCode=25
 author='艾星Aistra'
 description='冻结软件'
-time='2023年3月1号'
-    [[ $Choice = 1 ]] && Download -gh 'hail.apk' "$1.apk" '2621492' '1434387f44f926514227603c2e01cd9e' "$1.apk"
+time='2023年3月17号'
+    [[ $Choice = 1 ]] && Download -gh 'hail_1.2.2(25).apk' "$1.apk" '2823166' '751668d429b2224545bcec89b349d951' "$1.apk"
 ;;
 
 me.zhanghai.android.files)

@@ -18,15 +18,16 @@ description='Magisk Manager'
 time='2022年7月20号'
     [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2022/10/05/LycN8xREFE2T2xUO_Magisk-25.2.apk' "$1.apk" '11278270' '278576ca7483716bcbc16af7cff268bd' "$1.apk"
 ;;
+
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.2.1.r969.7bde35a'
-versionCode=969
+version='13.2.1.r979.70ed4d9'
+versionCode=979
 author='Rikka'
 description='系统API授权'
-time='2023年3月5号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/sMXuXWR4rNIGpovV_shizuku-v13.2.1.r969.7bde35a.apk' "$1.apk" '3575621' '4fc17c29235cca870364b7059cabe248' "$1.apk"
+time='2023年3月17号'
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/17/z6WODjov9CC2viVQ_shizuku-v13.2.1.r979.apk' "$1.apk" '3406404' '7a7fd602639bb64bd4e8014d36d64cb9' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)

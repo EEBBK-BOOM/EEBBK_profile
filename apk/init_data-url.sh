@@ -27,7 +27,7 @@ versionCode=979
 author='Rikka'
 description='系统API授权'
 time='2023年3月17号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/17/z6WODjov9CC2viVQ_shizuku-v13.2.1.r979.apk' "$1.apk" '3406404' '7a7fd602639bb64bd4e8014d36d64cb9' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/17/jO3aeZK0GOyNBXcW_Shizuku-13.2.1.r979.apk' "$1.apk" '3406404' '7a7fd602639bb64bd4e8014d36d64cb9' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)

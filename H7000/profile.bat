@@ -1,0 +1,12 @@
+@ECHO OFF
+set link=https://download.eebbk.top/eebbk/
+set stock_boot=%link%2023/03/18/yiQqZ2rO3ENMneT6_boot.7z
+set twrp_1=%link%2023/03/18/7rWBbke9luu8pMk2_twrp.7z.001
+set twrp_2=%link%2023/03/18/lwvGr0Va14FC1rti_twrp.7z.002
+set twrp_3=%link%2023/03/18/WHzkaDusztTlaAYH_twrp.7z.003
+set msic_stock=%link%2023/03/18/Kqv3gOfVrNEzPQjk_misc_stock.bin
+set msic_rec=%link%2023/03/18/kJd1fJjw6uRGSPs9_misc_recovery.bin
+set elf=prog_emmc_firehose_Sdm660_ddr.elf
+set prog=%link%2023/03/18/mcTnOmRTLeSZhWPu_%elf%
+set checksum_twrp=3DAB9D12
+set checksum_boot=4DA4D231

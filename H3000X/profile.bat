@@ -1,3 +1,6 @@
 @ECHO OFF
-set stock_boot=https://download.eebbk.top/eebbk/2023/02/04/v80HbERv0c9Ij8FA_boot.img
-set twrp=https://download.eebbk.top/eebbk/2023/02/04/KZw1JrbWmMALypGW_twrp.img
+set link=https://download.eebbk.top/eebbk/
+set stock_boot=%link%2023/03/20/bTtReVYb8vmrPHfX_boot.7z
+set twrp=%link%2023/03/20/oapDLAlDN3TGScRn_twrp.7z
+set checksum_twrp=22B8C3D8
+set checksum_boot=AB364E8D

@@ -1,4 +1,6 @@
 @ECHO OFF
+set twrp_image=twrp.img
+set boot_image=boot.img
 set link=https://download.eebbk.top/eebbk/
 set stock_boot=%link%2023/03/20/bTtReVYb8vmrPHfX_boot.7z
 set twrp=%link%2023/03/20/oapDLAlDN3TGScRn_twrp.7z

@@ -44,15 +44,15 @@ time='2020年7月7号'
 com.yxer.packageinstalles)
 apk='com.yxer.packageinstalles'
 name='R-安装组件'
-version='2.6.2-beta'
-versionCode=286
+version='2.6.9-beta'
+versionCode=294
 author='L'
 description='安装第三方软件'
-time='2023年1月28号'
+time='2023年3月29号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/ZmUph6BmkLTFIY0I_r-packageinstalles_2.6.2-beta(286).apk' "$1.apk" '1647631' 'e6df20581cec49d20c4d799e904fdd5e' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/29/Q8Ejktw3aQPq8Kkm_com.yxer.packageinstalles_v2.6.9-beta(294).apk' "$1.apk" '2843609' 'be3c622f8c462b6b8657f62be9a69cc4' "$1.apk"
 ;;
 
 com.aistra.hail)
@@ -103,11 +103,11 @@ com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
 version='4.0.1'
-versionCode=708
+versionCode=710
 author='chengkai'
 description='浏览器'
-time='2023年3月24号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/24/9BajS55vX9qMmZpV_xbrowser_4.0.1(708).apk' "$1.apk" '1151645' 'daa84070b019bf4cbb0eae1cab718811' "$1.apk"
+time='2023年3月27号'
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/29/7E2MGLhumzwf7DMW_xbrowser_4.0.1(710).apk' "$1.apk" '1151646' 'c05419128812239d40f1019664308848' "$1.apk"
 ;;
 
 exit_sideload)

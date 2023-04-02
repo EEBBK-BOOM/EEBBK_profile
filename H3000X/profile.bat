@@ -1,0 +1,9 @@
+@ECHO OFF
+set twrp_image=twrp.img
+set boot_image=boot.img
+set link=https://raw.kgithub.com/EEBBK-BOOM/EEBBK_profile/main/H3000X/
+set stock_boot=%link%boot.7z
+set twrp=%link%twrp.7z
+set mtkclient=https://codeload.kgithub.com/bkerler/mtkclient/zip/refs/heads/main
+set checksum_twrp=22B8C3D8
+set checksum_boot=AB364E8D

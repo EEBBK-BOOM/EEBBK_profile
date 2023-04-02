@@ -8,5 +8,5 @@ set msic_stock=%link%misc_stock.bin
 set msic_rec=%link%misc_recovery.bin
 set elf=prog_emmc_firehose_Sdm660_ddr.elf
 set prog=%link%%elf%
-set checksum_twrp=3DAB9D12
+set checksum_twrp=C0563B79
 set checksum_boot=4DA4D231

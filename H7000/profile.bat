@@ -1,5 +1,5 @@
 @ECHO OFF
-set link=https://eebbk-boom.github.io/EEBBK_profile/H7000/
+set link=https://raw.kgithub.com/EEBBK-BOOM/EEBBK_profile/main/H7000/
 set stock_boot=%link%boot.7z
 set twrp_1=%link%twrp.7z.001
 set twrp_2=%link%twrp.7z.002

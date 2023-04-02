@@ -1,9 +1,7 @@
 @ECHO OFF
 set link=https://raw.kgithub.com/EEBBK-BOOM/EEBBK_profile/main/H7000/
 set stock_boot=%link%boot.7z
-set twrp_1=%link%twrp.7z.001
-set twrp_2=%link%twrp.7z.002
-set twrp_3=%link%twrp.7z.003
+set twrp=https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/twrp/twrp-3.7.0_9-20230401-H7000.img
 set msic_stock=%link%misc_stock.bin
 set msic_rec=%link%misc_recovery.bin
 set elf=prog_emmc_firehose_Sdm660_ddr.elf

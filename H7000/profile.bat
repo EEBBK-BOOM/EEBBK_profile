@@ -1,10 +1,10 @@
 @ECHO OFF
 set link=https://download.eebbk.top/eebbk/
 set stock_boot=%link%2023/03/18/yiQqZ2rO3ENMneT6_boot.7z
-set twrp=%link%2023/04/03/fck4JutjXB549F1A_twrp-3.7.0_9-20230401-H7000.img
+set twrp=%link%2023/04/06/f37JhlcH2idImPUm_twrp-3.7.0_9-20230403-H7000.img
 set msic_stock=%link%2023/03/18/Kqv3gOfVrNEzPQjk_misc_stock.bin
 set msic_rec=%link%2023/03/18/kJd1fJjw6uRGSPs9_misc_recovery.bin
 set elf=prog_emmc_firehose_Sdm660_ddr.elf
 set prog=%link%2023/03/18/mcTnOmRTLeSZhWPu_%elf%
-set checksum_twrp=C0563B79
+set checksum_twrp=4ABC74EF
 set checksum_boot=4DA4D231

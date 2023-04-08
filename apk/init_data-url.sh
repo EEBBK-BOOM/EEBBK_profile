@@ -16,7 +16,7 @@ versionCode=26000
 author='John Wu'
 description='Magisk Manager'
 time='2023年4月5号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/04/09/ExqrwquWNfgRBO20_Magisk-v26.0.apk' "$1.apk" '11399404' '83ECA77142529FB3BE58CBD0EE17CDCC' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/04/09/ExqrwquWNfgRBO20_Magisk-v26.0.apk' "$1.apk" '11399404' '83eca77142529fb3be58cbd0ee17cdcc' "$1.apk"
 ;;
 
 moe.shizuku.privileged.api)

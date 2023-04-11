@@ -11,12 +11,12 @@ case "$1" in
 com.topjohnwu.magisk)
 apk='com.topjohnwu.magisk'
 name='Magisk'
-version='26.0'
-versionCode=26000
+version='26.1'
+versionCode=26100
 author='John Wu'
 description='Magisk Manager'
-time='2023年4月5号'
-    [[ $Choice = 1 ]] && Download -boom 'Magisk-26.0.apk' "$1.apk" '11399404' '83eca77142529fb3be58cbd0ee17cdcc' "$1.apk"
+time='2023年4月11号'
+    [[ $Choice = 1 ]] && Download -boom 'Magisk-26.1.apk' "$1.apk" '11399404' '6794a570b8ebfbaa5f596eda3639ef56' "$1.apk"
 ;;
 
 moe.shizuku.privileged.api)

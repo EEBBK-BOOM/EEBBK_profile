@@ -6,3 +6,4 @@ set H7000_rom=44C2259E
 set H7000_firmware=8A2920BE
 set H110_rom=AAD9E405
 set H110_firmware=EEEDCB7E
+set key=EEBBK-BOOM

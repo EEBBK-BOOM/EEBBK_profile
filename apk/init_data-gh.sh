@@ -45,14 +45,14 @@ com.yxer.packageinstalles)
 apk='com.yxer.packageinstalles'
 name='R-安装组件'
 version='2.6.9-beta'
-versionCode=297
+versionCode=327
 author='L'
 description='安装第三方软件'
-time='2023年4月2号'
+time='2023年4月25号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -gh 'r-packageinstalles_v2.6.9-beta(297).apk' "$1.apk" '2828176' '0714af66b7c6569a04dd321a653b5baf' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'R-packageinstalles_v2.6.9-beta(327).apk' "$1.apk" '2932653' '771941443dca252500599146cf13b2fa' "$1.apk"
 ;;
 
 com.aistra.hail)
@@ -102,12 +102,12 @@ time='2023年2月22号'
 com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
-version='4.0.1'
-versionCode=713
+version='4.0.3'
+versionCode=723
 author='chengkai'
 description='浏览器'
-time='2023年4月1号'
-    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.1(713).apk' "$1.apk" '1151646' '48a59e177af49f4e700568cf94edbb69' "$1.apk"
+time='2023年4月28号'
+    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.3(723).apk' "$1.apk" '1155764' '083385e84e5c246aa3e8b3814f0696dc' "$1.apk"
 ;;
 
 exit_sideload)

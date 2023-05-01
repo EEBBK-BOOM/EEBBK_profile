@@ -22,12 +22,12 @@ time='2023年4月11号'
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.2.1.r989.b053ea2'
-versionCode=989
+version='13.3.0.r999.8b4d479'
+versionCode=999
 author='Rikka'
 description='系统API授权'
-time='2023年4月3号'
-    [[ $Choice = 1 ]] && Download -gh 'shizuku-v13.2.1.r989.apk' "$1.apk" '3413976' '980274e0c5e5cebacad4602bd5d5dab7' "$1.apk"
+time='2023年4月20号'
+    [[ $Choice = 1 ]] && Download -gh 'shizuku-v13.3.0.r999.apk' "$1.apk" '3423276' 'c9753aa9ef1322d8045fd152659a5757' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)
@@ -45,25 +45,25 @@ com.yxer.packageinstalles)
 apk='com.yxer.packageinstalles'
 name='R-安装组件'
 version='2.6.9-beta'
-versionCode=327
+versionCode=328
 author='L'
 description='安装第三方软件'
-time='2023年4月25号'
+time='2023年5月1号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -gh 'R-packageinstalles_v2.6.9-beta(327).apk' "$1.apk" '2932653' '771941443dca252500599146cf13b2fa' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'R-packageinstalles_v2.6.9-beta(328).apk' "$1.apk" '2932665' 'f274895a98bbd7c15b6ea4c2379dbaaf' "$1.apk"
 ;;
 
 com.aistra.hail)
 apk='com.aistra.hail'
 name='雹'
-version='1.2.2'
-versionCode=25
+version='1.3.0'
+versionCode=26
 author='艾星Aistra'
 description='冻结软件'
-time='2023年3月17号'
-    [[ $Choice = 1 ]] && Download -gh 'hail_1.2.2(25).apk' "$1.apk" '2823166' '751668d429b2224545bcec89b349d951' "$1.apk"
+time='2023年5月1号'
+    [[ $Choice = 1 ]] && Download -gh 'hail_1.3.0(26).apk' "$1.apk" '2779715' 'afe2405bc8cb454c107e3ae03115bdac' "$1.apk"
 ;;
 
 me.zhanghai.android.files)

@@ -38,21 +38,22 @@ versionCode=42
 author='dadaewq'
 description='安装第三方软件'
 time='2020年7月7号'
-    [[ $Choice = 1 ]] && Download -boom 'apkinstaller.apk' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
+    [[ $Choice = 1 ]] && Download -boom 'apkinstaller.apk' "$1.apk" '2931517' '
+    ' "$1.apk"
 ;;
 
 com.yxer.packageinstalles)
 apk='com.yxer.packageinstalles'
 name='R-安装组件'
 version='2.6.9-beta'
-versionCode=328
+versionCode=330
 author='L'
 description='安装第三方软件'
-time='2023年5月1号'
+time='2023年5月10号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -boom 'R-packageinstalles_v2.6.9-beta(328).apk' "$1.apk" '2932665' 'f274895a98bbd7c15b6ea4c2379dbaaf' "$1.apk"
+    [[ $Choice = 1 ]] && Download -boom 'R-packageinstalles_v2.6.9-beta(330).apk' "$1.apk" '2932665' 'b7a0583ab10ca1862e6215c8d4d90a0d' "$1.apk"
 ;;
 
 com.aistra.hail)
@@ -91,23 +92,23 @@ time='2019年2月2号'
 mark.via)
 apk='mark.via'
 name='Via'
-version='4.5.1'
-versionCode=20230222
+version='4.7.0'
+versionCode=20230508
 author='various'
 description='浏览器'
-time='2023年2月22号'
-    [[ $Choice = 1 ]] && Download -boom 'Via_4.5.1(20230222).apk' "$1.apk" '1580588' '62293ff2eb7b18c575d181e11fe0b395' "$1.apk"
+time='2023年5月8号'
+    [[ $Choice = 1 ]] && Download -boom 'Via_4.7.0(20230508).apk' "$1.apk" '1837400' 'c45abe93ce1c0bfd14681c5b77a93d70' "$1.apk"
 ;;
 
 com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
-version='4.0.3'
-versionCode=723
+version='4.0.4'
+versionCode=729
 author='chengkai'
 description='浏览器'
-time='2023年4月28号'
-    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.0.3(723).apk' "$1.apk" '1155764' '083385e84e5c246aa3e8b3814f0696dc' "$1.apk"
+time='2023年5月17号'
+    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.0.4(729).apk' "$1.apk" '1102306' 'cc0837ca476c92bf030bd204b1b07204' "$1.apk"
 ;;
 
 exit_sideload)

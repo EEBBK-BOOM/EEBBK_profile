@@ -96,7 +96,7 @@ versionCode=20230508
 author='various'
 description='浏览器'
 time='2023年5月8号'
-    [[ $Choice = 1 ]] && Download -boom 'Via_4.7.0(20230508).apk' "$1.apk" '1837400' 'c45abe93ce1c0bfd14681c5b77a93d70' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'Via_4.7.0(20230508).apk' "$1.apk" '1837400' 'c45abe93ce1c0bfd14681c5b77a93d70' "$1.apk"
 ;;
 
 com.mmbox.xbrowser)
@@ -107,7 +107,7 @@ versionCode=729
 author='chengkai'
 description='浏览器'
 time='2023年5月17号'
-    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.0.4(729).apk' "$1.apk" '1102306' 'cc0837ca476c92bf030bd204b1b07204' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.4(729).apk' "$1.apk" '1102306' 'cc0837ca476c92bf030bd204b1b07204' "$1.apk"
 ;;
 
 exit_sideload)

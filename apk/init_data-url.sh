@@ -16,18 +16,18 @@ versionCode=26100
 author='John Wu'
 description='Magisk Manager'
 time='2023年4月11号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/04/12/duyVmbsClnGJE8Ni_Magisk-26.1.apk' "$1.apk" '11399404' '6794a570b8ebfbaa5f596eda3639ef56' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'iGboN0xh8r7i' "$1.apk" '11399404' '6794a570b8ebfbaa5f596eda3639ef56' "$1.apk"
 ;;
 
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.3.0.r999.8b4d479'
-versionCode=999
+version='13.3.0.r1003.d4b24b0'
+versionCode=1003
 author='Rikka'
 description='系统API授权'
-time='2023年4月20号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/05/01/6zF8v0Xa2V4LCFps_shizuku-v13.3.0.r999.apk' "$1.apk" '3423276' 'c9753aa9ef1322d8045fd152659a5757' "$1.apk"
+time='2023年5月26号'
+    [[ $Choice = 1 ]] && Download -lz 'iFOsS0xh8psh' "$1.apk" '3432498' 'fab9958cabe9944d720e4f7455f48131' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)
@@ -38,7 +38,7 @@ versionCode=42
 author='dadaewq'
 description='安装第三方软件'
 time='2020年7月7号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/01/24/iNrhUGxnOB4TLIH5_apkinstaller.apk' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'iFOsS0xh8psh' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
 ;;
 
 com.yxer.packageinstalles)

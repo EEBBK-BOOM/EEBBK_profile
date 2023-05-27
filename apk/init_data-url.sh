@@ -63,7 +63,7 @@ versionCode=26
 author='艾星Aistra'
 description='冻结软件'
 time='2023年5月1号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/05/01/deZtaM56vS6c9daj_hail_1.3.0(26).apk' "$1.apk" '2779715' 'afe2405bc8cb454c107e3ae03115bdac' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'iE7LW0xh9fuf' "$1.apk" '2779715' 'afe2405bc8cb454c107e3ae03115bdac' "$1.apk"
 ;;
 
 me.zhanghai.android.files)

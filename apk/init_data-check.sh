@@ -11,12 +11,12 @@ case "$1" in
 com.ycly.EEBBK.toolbox)
 apk='com.ycly.EEBBK.toolbox'
 name='EEBBK Toolbox'
-version='2.0.1'
-versionCode=201
+version='2.0.2'
+versionCode=202
 author='EEBBK BOOM'
 description='更新日志：更换下载通道'
-time='2023年4月30号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/04/30/XKhzOAifKGIeYyTb_Toolbox_2.0.1.apk' "$1.apk" '16514836' '965323e6f089ca904b098f5e01200657' "$1.apk"
+time='2023年5月28号'
+    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_2.0.2.apk' "$1.apk" '16545100' '764a32c36411589826bbb65cd0b94ae7' "$1.apk"
 ;;
 
 exit_sideload)

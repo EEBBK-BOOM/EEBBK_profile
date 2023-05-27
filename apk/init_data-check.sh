@@ -16,7 +16,7 @@ versionCode=202
 author='EEBBK BOOM'
 description='更新日志：更换下载通道'
 time='2023年5月28号'
-    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_2.0.2.apk' "$1.apk" '16545100' '764a32c36411589826bbb65cd0b94ae7' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_2.0.2.apk' "$1.apk" '16545099' '8befc98c310febf9521e482492a68d05' "$1.apk"
 ;;
 
 exit_sideload)

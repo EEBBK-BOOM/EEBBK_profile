@@ -52,7 +52,7 @@ time='2023年5月10号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -lz 'iCIia0xh8qqb' "$1.apk" '2932665' '' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'iCIia0xh8qqb' "$1.apk" '2932665' 'b7a0583ab10ca1862e6215c8d4d90a0d' "$1.apk"
 ;;
 
 com.aistra.hail)

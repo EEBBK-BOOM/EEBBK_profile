@@ -16,7 +16,7 @@ versionCode=9999202
 author='EEBBK BOOM'
 description='更新日志：更换下载通道'
 time='2023年5月28号'
-    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake_2.0.2.apk' "$1.apk" '16545094' '81c842f09c100537b36af2dbcea9e527' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake_2.0.2.apk' "$1.apk" '16545097' 'a2dd3f9203d8bc7e52b07b7206ed4653' "$1.apk"
 ;;
 
 exit_sideload)

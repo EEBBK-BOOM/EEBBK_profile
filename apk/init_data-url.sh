@@ -52,7 +52,7 @@ time='2023年5月10号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/05/22/YIgww5t5fjpktzcu_R-packageinstalles_v2.6.9-beta(330).apk' "$1.apk" '2932665' '' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'iCIia0xh8qqb' "$1.apk" '2932665' '' "$1.apk"
 ;;
 
 com.aistra.hail)
@@ -96,7 +96,7 @@ versionCode=20230508
 author='various'
 description='浏览器'
 time='2023年5月8号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/05/22/HiYY76j5UcP7OOka_Via_4.7.0(20230508).apk' "$1.apk" '1837400' 'c45abe93ce1c0bfd14681c5b77a93d70' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'ir1Nt0xh8qbg' "$1.apk" '1837400' 'c45abe93ce1c0bfd14681c5b77a93d70' "$1.apk"
 ;;
 
 com.mmbox.xbrowser)

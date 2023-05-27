@@ -38,7 +38,7 @@ versionCode=42
 author='dadaewq'
 description='安装第三方软件'
 time='2020年7月7号'
-    [[ $Choice = 1 ]] && Download -url 'iFOsS0xh8psh' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'iUH1e0xh969a' "$1.apk" '1869340' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
 ;;
 
 com.yxer.packageinstalles)
@@ -74,7 +74,7 @@ versionCode=31
 author='张海'
 description='管理Android设备文件'
 time='2022年5月16号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/06/0Yi9C6e6juTjCjU0_files_1.5.2(31).apk' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'iWa1U0xh95vg' "$1.apk" '8525057' '0060ab65dfaa426977715e42aada1cc7' "$1.apk"
 ;;
 
 com.x7890.shortcutcreator)
@@ -85,7 +85,7 @@ versionCode=117
 author='x7890'
 description='快捷打开系统隐藏的活动/系统设置选项'
 time='2019年2月2号'
-    [[ $Choice = 1 ]] && Download -url 'https://download.eebbk.top/eebbk/2023/03/16/jci7x1GpiBQ0urtm_shortcutcreator.apk' "$1.apk" '1329110' '91603438038865745cfd3301debca1d3' "$1.apk"
+    [[ $Choice = 1 ]] && Download -lz 'i8Thw0xh95bg' "$1.apk" '1329110' '91603438038865745cfd3301debca1d3' "$1.apk"
 ;;
 
 mark.via)

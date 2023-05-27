@@ -22,12 +22,12 @@ time='2023年4月11号'
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.3.0.r999.8b4d479'
-versionCode=999
+version='13.3.0.r1003.d4b24b0'
+versionCode=1003
 author='Rikka'
 description='系统API授权'
-time='2023年4月20号'
-    [[ $Choice = 1 ]] && Download -boom 'shizuku-v13.3.0.r999.apk' "$1.apk" '3423276' 'c9753aa9ef1322d8045fd152659a5757' "$1.apk"
+time='2023年5月26号'
+    [[ $Choice = 1 ]] && Download -boom 'shizuku-v13.3.0.r1003.apk' "$1.apk" '3432498' 'fab9958cabe9944d720e4f7455f48131' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)
@@ -104,11 +104,11 @@ com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
 version='4.0.4'
-versionCode=729
+versionCode=731
 author='chengkai'
 description='浏览器'
-time='2023年5月17号'
-    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.0.4(729).apk' "$1.apk" '1102306' 'cc0837ca476c92bf030bd204b1b07204' "$1.apk"
+time='2023年5月27号'
+    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.0.4(731).apk' "$1.apk" '1102308' 'c1d99b69c700bc0920ab19ff019fc556' "$1.apk"
 ;;
 
 exit_sideload)

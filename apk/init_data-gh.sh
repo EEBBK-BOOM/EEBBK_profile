@@ -102,12 +102,12 @@ time='2023年5月8号'
 com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
-version='4.0.4'
-versionCode=731
+version='4.1.0'
+versionCode=742
 author='chengkai'
 description='浏览器'
-time='2023年5月27号'
-    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.0.4(731).apk' "$1.apk" '1102308' 'c1d99b69c700bc0920ab19ff019fc556' "$1.apk"
+time='2023年6月14号'
+    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.1.0(742).apk' "$1.apk" '1132591' 'd78d5d9761c2f60a7385d8a8ae6ffaea' "$1.apk"
 ;;
 
 exit_sideload)

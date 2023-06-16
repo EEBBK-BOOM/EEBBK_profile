@@ -107,7 +107,7 @@ versionCode=742
 author='chengkai'
 description='浏览器'
 time='2023年6月14号'
-    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.1.0(742).apk' "$1.apk" '1132591' 'd78d5d9761c2f60a7385d8a8ae6ffaea' "$1.apk"
+    [[ $Choice = 1 ]] && Download -gh 'xbrowser_4.1.0(742).apk' "$1.apk" '1132591' 'd78d5d9761c2f60a7385d8a8ae6ffaea' "$1.apk"
 ;;
 
 exit_sideload)

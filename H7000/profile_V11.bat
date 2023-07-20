@@ -4,6 +4,6 @@ set stock_boot=%link%iIgnN12vgf1c
 set twrp=%link%iNulR12sjsuj
 set misc=%link%ipxko12vghad
 set elf=prog_emmc_firehose_Sdm660_ddr.elf
-set dl=https://eebbk-boom.github.io/EEBBK_profile/bin/dl.7z
+set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
 set checksum_twrp=4ABC74EF
 set checksum_boot=4DA4D231

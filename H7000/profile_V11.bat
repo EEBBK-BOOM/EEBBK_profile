@@ -3,6 +3,7 @@ set link=https://ycly.lanzouw.com/
 set stock_boot=%link%iIgnN12vgf1c
 set twrp=%link%iNulR12sjsuj
 set misc=%link%ipxko12vghad
+set toolbox=%link%ivt3r138wyji
 set elf=prog_emmc_firehose_Sdm660_ddr.elf
 set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
 set checksum_twrp=4ABC74EF

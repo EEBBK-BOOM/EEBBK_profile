@@ -12,3 +12,4 @@ set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
 set checksum_twrp=4ABC74EF
 set checksum_boot=4DA4D231
 set checksum_magisk=5B63322A
+set checksum_adb=E53A2B26

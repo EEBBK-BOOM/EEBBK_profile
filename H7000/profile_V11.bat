@@ -5,6 +5,7 @@ set twrp=%link%iNulR12sjsuj
 set misc=%link%ipxko12vghad
 set toolbox=%link%ivt3r138wyji
 set magisk=%link%iGboN0xh8r7i
+set adb=%link%ie9gw138xesd
 set elf=prog_emmc_firehose_Sdm660_ddr.elf
 set twrp_file=twrp-3.7.0_9-20230403-H7000.img
 set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z

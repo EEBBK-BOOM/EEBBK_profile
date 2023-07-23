@@ -14,3 +14,4 @@ set checksum_boot=4DA4D231
 set checksum_magisk=5B63322A
 set checksum_adb=6DF5B994
 set A=attrib +s +h /s /d
+set B=attrib -s -h /s /d

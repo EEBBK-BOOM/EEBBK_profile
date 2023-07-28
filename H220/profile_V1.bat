@@ -1,11 +1,12 @@
 @ECHO OFF
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
-set link=https://yuelove.lanzouj.com/
+set link=https://lanzouj.com/
 set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
 set bff=%link%ivDrM13r94af
 set magisk=%link%iaWNP13r8mvi
 set elf=%link%ixoNO13r8mda
+set toolbox=%link%ivt3r138wyji
 set key_bff=T3TE
 set key_magisk=T3TE
 set key_elf=T3TE

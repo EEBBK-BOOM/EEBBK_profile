@@ -1,6 +1,7 @@
 @ECHO OFF
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
+SET ZPF_docs=https://www.eebbk.com.cn/
 set link=https://yuelove.lanzouj.com/
 set link2=https://ycly.lanzoui.com/
 set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
@@ -15,5 +16,6 @@ set magisk_vercode=26100
 set checksum_bff=567FB87B
 set checksum_magisk=5B63322A
 set checksum_elf=1285D92E
+set password=EEBBKBOOM321546
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

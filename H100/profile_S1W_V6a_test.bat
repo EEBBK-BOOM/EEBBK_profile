@@ -5,6 +5,7 @@ set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set toolbox=%link%ivt3r138wyji
 set spd=%link%iWBeE15lim1e
 set pac=%link%iPPEx1544q1c
+set folder=%link%iln5S15nlosd
 set stock_pac=S1W_stock_V1.4.0_BOOM.pac
 set magisk_pac=S1W_magisk_BOOM.pac
 set spd_dir=SPD_Research_Tool

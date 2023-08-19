@@ -11,12 +11,12 @@ case "$1" in
 com.fenbi.android.gaozhong)
 apk='com.fenbi.android.gaozhong'
 name='EEBBK Toolbox'
-version='2.0.2'
-versionCode=9999202
+version='2.0.3'
+versionCode=9999203
 author='EEBBK BOOM'
-description='更新日志：更换下载通道'
-time='2023年5月28号'
-    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake_2.0.2.apk' "$1.apk" '16545097' 'a2dd3f9203d8bc7e52b07b7206ed4653' "$1.apk"
+description='更新日志：修复满速下载通道'
+time='2023年8月19号'
+    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake.apk' "$1.apk" '17572838' 'ff5cf2b0274f1fee2e83f37eb1e4588a' "$1.apk"
 ;;
 
 exit_sideload)

@@ -16,7 +16,7 @@ versionCode=9999203
 author='EEBBK BOOM'
 description='更新日志：修复满速下载通道'
 time='2023年8月19号'
-    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake.apk' "$1.apk" '17572838' 'ff5cf2b0274f1fee2e83f37eb1e4588a' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://kgithub.com/EEBBK-BOOM/EEBBK_profile/releases/download/Toolbox/Toolbox_fake.apk' "$1.apk" '18052005' 'b43cf6c38a2628d375d974a6dd246661' "$1.apk"
 ;;
 
 exit_sideload)

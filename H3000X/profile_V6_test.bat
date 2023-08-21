@@ -17,5 +17,6 @@ set checksum_twrp=A1D720F4
 set checksum_boot=AB364E8D
 set checksum_magisk=5B63322A
 set checksum_adb=6DF5B994
+set checksum_mtkclient=3D90E07E
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

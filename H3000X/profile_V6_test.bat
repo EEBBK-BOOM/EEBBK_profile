@@ -1,6 +1,6 @@
 @ECHO OFF
 set link=https://ycly.lanzouw.com/
-set main_docs=https://kdocs.cn/l/cbjtVlrpWOtF
+set main_docs=https://kdocs.cn/l/cdoB9VJ9XApf
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set stock_boot=%link%i7w91161r5zg
 set twrp=%link%iJRdg161r5vc

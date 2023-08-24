@@ -1,6 +1,6 @@
 @ECHO OFF
 set link=https://ycly.lanzouw.com/
-set main_docs=https://kdocs.cn/l/cbjtVlrpWOtF
+set main_docs=https://kdocs.cn/l/cdTOie6LVgAG
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set toolbox=%link%itvaS15uxthg
 set magisk=%link%iGboN0xh8r7i

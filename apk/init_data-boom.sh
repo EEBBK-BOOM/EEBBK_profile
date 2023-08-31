@@ -38,8 +38,7 @@ versionCode=42
 author='dadaewq'
 description='安装第三方软件'
 time='2020年7月7号'
-    [[ $Choice = 1 ]] && Download -boom 'apkinstaller.apk' "$1.apk" '2931517' '
-    ' "$1.apk"
+    [[ $Choice = 1 ]] && Download -boom 'apkinstaller.apk' "$1.apk" '2931517' '665dfcc366eb8a6c42fb442c39fcc388' "$1.apk"
 ;;
 
 com.yxer.packageinstalles)

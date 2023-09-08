@@ -2,13 +2,12 @@
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set link=https://yuelove.lanzouj.com/
-set link2=https://ycly.lanzoui.com/
-set lzdl=https://eebbk-boom.github.io/EEBBK_profile/bin/lzdl.7z
+set lzdl=https://down.eebbk.top/bin/lzdl.7z
 set bff=%link%is4Dq15wcpde
 set magisk=%link%iJyrv15wcq8f
 set elf=%link%ixoNO13r8mda
-set toolbox=%link2%itvaS15uxthg
-set driver=%link2%iEPJm15796ti
+set toolbox=%link%iX1Fa17qt5sh
+set driver=%link%iEPJm15796ti
 set update_log=%link2%iUhrg15wcq9g
 set key_bff=T3TE
 set key_magisk=T3TE

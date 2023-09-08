@@ -2,7 +2,7 @@
 set link=https://ycly.lanzouw.com/
 set main_docs=https://kdocs.cn/l/cdTOie6LVgAG
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
-set toolbox=%link%iHD9u17olpqf
+set toolbox=%link%iX1Fa17qt5sh
 set magisk=%link%itAp917ok08b
 set spd=%link%iWBeE15lim1e
 set pac=%link%iPPEx1544q1c

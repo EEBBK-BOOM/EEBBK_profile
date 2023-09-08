@@ -16,7 +16,7 @@ versionCode=204
 author='EEBBK BOOM团队'
 description='更新日志：移除高速下载通道，优化稳定下载通道'
 time='2023年9月6号'
-    [[ $Choice = 1 ]] && Download -url 'https://down.eebbk.top/toolbox/Toolbox.apk' "$1.apk" '18052034' '09aa205ba9305d2d9788f6921c1b1677' "$1.apk"
+    [[ $Choice = 1 ]] && Download -url 'https://down.eebbk.top/toolbox/Toolbox.apk' "$1.apk" '18052034' 'a1970d71925c651324a7bc02a88c49bc' "$1.apk"
 ;;
 
 exit_sideload)

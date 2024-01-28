@@ -3,7 +3,6 @@ set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set link=https://yuelove.lanzv.com/
 set lzdl=https://down.eebbk.top/bin/lzdl.7z
-set lzdl2=https://down.eebbk.top/bin/lzdl2.7z
 set bff=%link%iXJb81mi8eti
 set Apatch=%link%iXftQ1mi6cch
 set elf=%link%i8Vas1mi7fgf

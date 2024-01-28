@@ -1,7 +1,7 @@
 @ECHO OFF
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
-set link=https://yuelove.lanzouj.com/
+set link=https://yuelove.lanzou.com/
 set lzdl=https://down.eebbk.top/bin/lzdl.7z
 set bff=%link%iXJb81mi8eti
 set Apatch=%link%iXftQ1mi6cch

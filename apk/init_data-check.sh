@@ -15,8 +15,8 @@ version='2.0.5'
 versionCode=205
 author='EEBBK BOOM团队'
 description='不支持直接安装，请选择安装方案②并手动安装'
-time='2024年1月25号'
-    [[ $Choice = 1 ]] && Download -url 'https://key.eebbk.top/apk/Toolbox_2.0.5.apk' "$1.apk" '18052033' '6d8b9651ef61d493b94d0b0f9f9c3a28' "$1.apk"
+time='2024年1月26号'
+    [[ $Choice = 1 ]] && Download -url 'https://key.eebbk.top/apk/Toolbox_2.0.5.apk' "$1.apk" '18052034' 'c9f9f5612bc3191f7e2a9aac5a59fc8e' "$1.apk"
 ;;
 
 exit_sideload)

@@ -69,12 +69,12 @@ time='2023年11月22号'
 me.zhanghai.android.files)
 apk='me.zhanghai.android.files'
 name='质感文件'
-version='1.6.0'
-versionCode=32
+version='1.6.2'
+versionCode=34
 author='张海'
 description='管理Android设备文件'
-time='2022年5月16号'
-    [[ $Choice = 1 ]] && Download -boom 'files_1.6.0(32).apk' "$1.apk" '13202575' '469d8bf49b417b415fd76b9bc82fd4a8' "$1.apk"
+time='2023年10月9号'
+    [[ $Choice = 1 ]] && Download -boom 'files_1.6.2(34).apk' "$1.apk" '12644795' '284c3aa5fff4b3363303f780f35d2021' "$1.apk"
 ;;
 
 com.x7890.shortcutcreator)

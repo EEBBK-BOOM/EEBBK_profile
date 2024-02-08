@@ -91,12 +91,12 @@ time='2019年2月2号'
 mark.via)
 apk='mark.via'
 name='Via'
-version='4.9.1'
-versionCode=20230902
+version='5.3.0'
+versionCode=20240203
 author='various'
 description='浏览器'
-time='2023年9月2号'
-    [[ $Choice = 1 ]] && Download -lz 'ifMr817ok0ra' "$1.apk" '1783699' '7c9d0080931ec8ca637a70558a5b5f20' "$1.apk"
+time='2024年2月3号'
+    [[ $Choice = 1 ]] && Download -lz 'iKEKm1nry7xg' "$1.apk" '1809373' 'cd5ec8a37b756ca5861c62cc3e3b6c74' "$1.apk"
 ;;
 
 com.mmbox.xbrowser)

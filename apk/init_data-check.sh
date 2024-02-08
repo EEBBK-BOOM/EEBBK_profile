@@ -8,15 +8,15 @@ MIUI=0
 case "$1" in
 
 #应用
-com.ycly.EEBBK.toolbox)
-apk='com.ycly.EEBBK.toolbox'
+com.BOOM.EEBBK.toolbox)
+apk='com.BOOM.EEBBK.toolbox'
 name='EEBBK Toolbox'
-version='2.0.5'
-versionCode=205
+version='3.0.0'
+versionCode=300
 author='EEBBK BOOM团队'
 description='不支持直接安装，请选择安装方案②并手动安装'
-time='2024年1月26号'
-    [[ $Choice = 1 ]] && Download -url 'https://key.eebbk.top/apk/Toolbox_2.0.5.apk' "$1.apk" '18052034' 'c9f9f5612bc3191f7e2a9aac5a59fc8e' "$1.apk"
+time='2024年2月4号'
+    [[ $Choice = 1 ]] && Download -url 'https://key.eebbk.top/apk/Toolbox_3.0.0.apk' "$1.apk" '18056131' 'af40b1e69275c76b2d3cf21f6f738024' "$1.apk"
 ;;
 
 exit_sideload)

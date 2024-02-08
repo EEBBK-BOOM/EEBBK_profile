@@ -58,12 +58,12 @@ time='2023年7月1号'
 com.aistra.hail)
 apk='com.aistra.hail'
 name='雹'
-version='1.4.0'
-versionCode=27
+version='1.7.0'
+versionCode=30
 author='艾星Aistra'
 description='冻结软件'
-time='2023年7月13号'
-    [[ $Choice = 1 ]] && Download -lz 'isa8B172bs1g' "$1.apk" '2812646' 'c2549abfaf0f685e67fe6b6a9766bc5c' "$1.apk"
+time='2023年11月22号'
+    [[ $Choice = 1 ]] && Download -lz 'iN6AW1nrz5yb' "$1.apk" '3209541' '06dae62f5dfbae5d4748881ecbd30196' "$1.apk"
 ;;
 
 me.zhanghai.android.files)

@@ -45,14 +45,14 @@ com.yxer.packageinstalles)
 apk='com.yxer.packageinstalles'
 name='R-安装组件'
 version='2.6.9-beta'
-versionCode=332
+versionCode=344
 author='L'
 description='安装第三方软件'
-time='2023年7月1号'
+time='2023年12月7号'
     if [[ $Choice = 1 ]]; then
         [[ $SDK -lt 27 ]] && abort "！$name-$version（$versionCode）不支持安卓8.1.0以下系统"
     fi
-    [[ $Choice = 1 ]] && Download -boom 'R-packageinstalles_v2.6.9-beta(332).apk' "$1.apk" '2925927' '5d1b66270867d4381c4461c2b31a9799' "$1.apk"
+    [[ $Choice = 1 ]] && Download -boom 'R-packageinstalles_v2.6.9-beta(344).apk' "$1.apk" '2949431' 'feef4094165ad82a4cd9759c2df7b5d1' "$1.apk"
 ;;
 
 com.aistra.hail)

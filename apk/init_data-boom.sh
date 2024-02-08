@@ -58,12 +58,12 @@ time='2023年7月1号'
 com.aistra.hail)
 apk='com.aistra.hail'
 name='雹'
-version='1.4.0'
-versionCode=27
+version='1.7.0'
+versionCode=30
 author='艾星Aistra'
 description='冻结软件'
-time='2023年7月13号'
-    [[ $Choice = 1 ]] && Download -boom 'hail_1.4.0(27).apk' "$1.apk" '2812646' 'c2549abfaf0f685e67fe6b6a9766bc5c' "$1.apk"
+time='2023年11月22号'
+    [[ $Choice = 1 ]] && Download -boom 'hail_1.7.0(30).apk' "$1.apk" '3209541' '06dae62f5dfbae5d4748881ecbd30196' "$1.apk"
 ;;
 
 me.zhanghai.android.files)
@@ -102,12 +102,12 @@ time='2024年2月3号'
 com.mmbox.xbrowser)
 apk='com.mmbox.xbrowser'
 name='X浏览器'
-version='4.1.3'
-versionCode=761
+version='4.4.0'
+versionCode=807
 author='chengkai'
 description='浏览器'
-time='2023年8月29号'
-    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.1.3(761).apk' "$1.apk" '1141036' '0bb45384a60662391ca31ece3ae187ec' "$1.apk"
+time='2024年1月30号'
+    [[ $Choice = 1 ]] && Download -boom 'xbrowser_4.4.0(807).apk' "$1.apk" '1294154' 'a9123e567d72e0fad5e8c5c0a5ed4121' "$1.apk"
 ;;
 
 exit_sideload)

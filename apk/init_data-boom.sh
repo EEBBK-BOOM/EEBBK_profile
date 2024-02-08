@@ -22,12 +22,12 @@ time='2024年2月3号'
 moe.shizuku.privileged.api)
 apk='moe.shizuku.privileged.api'
 name='Shizuku'
-version='13.5.1.r1026.dceecf1'
-versionCode=1026
+version='13.5.3.r1041.ed05120'
+versionCode=1041
 author='Rikka'
 description='系统API授权'
-time='2023年8月12号'
-    [[ $Choice = 1 ]] && Download -boom 'shizuku-v13.5.1.r1026.apk' "$1.apk" '3431990' '8d32609098886b34befc573e6917bba5' "$1.apk"
+time='2024年2月7号'
+    [[ $Choice = 1 ]] && Download -boom 'shizuku-v13.5.3.r1041.apk' "$1.apk" '3436714' '49628b7531469d52aefc6cf63cb0966d' "$1.apk"
 ;;
 
 com.modosa.apkinstaller)

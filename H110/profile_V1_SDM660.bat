@@ -1,5 +1,4 @@
 @ECHO OFF
-set title2=%device_name% 解除软件安装限制工具 %version% --- QQ群：235374948 工具永久免费公开下载，禁止倒卖
 set main_docs=https://kdocs.cn/l/cune7WAK6oZX
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set link=https://yuelove.lanzn.com/

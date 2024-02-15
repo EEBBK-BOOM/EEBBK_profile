@@ -13,7 +13,7 @@ set apboot=%link%i808H1obvqwb
 set boot=%link%id0yi1obvupi
 set update_log=%link%iXBcH1mi1uzi
 set logo=%link%iK54c1anp6ub
-set link2sd=iMaQU1obyksj
+set link2sd=%link%iMaQU1obyksj
 
 
 set keyR=EEBBK-BOOM

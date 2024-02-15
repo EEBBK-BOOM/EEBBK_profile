@@ -37,6 +37,7 @@ set checksum_apboot=5C5EDD38
 set checksum_boot=386DF4D7
 set checksum_toolbox=E1432F52
 set checksum_link2sd=72594644
+set checksum_Setup=6B9AD1F5
 
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

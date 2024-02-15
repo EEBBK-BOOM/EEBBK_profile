@@ -13,6 +13,8 @@ set apboot=%link%i808H1obvqwb
 set boot=%link%id0yi1obvupi
 set update_log=%link%iXBcH1mi1uzi
 set logo=%link%iK54c1anp6ub
+set link2sd=iMaQU1obyksj
+
 
 set keyR=EEBBK-BOOM
 set device=H110
@@ -34,6 +36,7 @@ set checksum_firmware=3B304279
 set checksum_apboot=5C5EDD38
 set checksum_boot=386DF4D7
 set check_toolbox=E1432F52
+set check_link2sd=72594644
 
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

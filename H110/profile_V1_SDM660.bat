@@ -7,10 +7,10 @@ set lzdl=https://down.eebbk.top/bin/lzdl.7z
 set bff=%link%ilyjx1mmo8le
 set Apatch=%link%inFs31mmjt0j
 set elf=%link%ivkt61moefob
-set toolbox=%link%iX1Fa17qt5sh
+set toolbox=%link%i5OBZ1obvyhe
 set driver=%link%iEPJm15796ti
 set apboot=%link%i808H1obvqwb
-set boot=id0yi1obvupi
+set boot=%link%id0yi1obvupi
 set update_log=%link%iXBcH1mi1uzi
 set logo=%link%iK54c1anp6ub
 

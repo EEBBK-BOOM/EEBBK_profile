@@ -8,7 +8,8 @@ set bff=%link%ilyjx1mmo8le
 set Apatch=%link%inFs31mmjt0j
 set elf=%link%ivkt61moefob
 set toolbox=%link%i5OBZ1obvyhe
-set driver=%link%iEPJm15796ti
+set qdriver=%link%iEPJm15796ti
+set adriver=%link%iujls1xh30pa
 set apboot=%link%i808H1obvqwb
 set boot=%link%id0yi1obvupi
 set update_log=%link%iXBcH1mi1uzi
@@ -38,6 +39,7 @@ set checksum_boot=386DF4D7
 set checksum_toolbox=E1432F52
 set checksum_link2sd=72594644
 set checksum_Setup=6B9AD1F5
+set checksum_aSetup=D84C2367
 
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

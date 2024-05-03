@@ -4,7 +4,7 @@ set block_docs=https://kdocs.cn/l/cune7WAK6oZX
 set link=https://yuelove.lanzn.com/
 set lzdl=https://down.eebbk.top/bin/lzdl.7z
 
-set bff=%link%ilyjx1mmo8le
+set bff=%link%icq0K1xiucoj
 set Apatch=%link%inFs31mmjt0j
 set eelf=%link%ivkt61moefob
 set toolbox=%link%i5OBZ1obvyhe
@@ -29,7 +29,7 @@ set key_driver=1234
 
 set Apatch_vercode=apatch
 
-set checksum_bff=BEB75531
+set checksum_bff=BFAF1CD0
 set checksum_Apatch=7138C29B
 set checksum_elf=8D2631AE
 set checksum_rom_emcp=11A932E0

@@ -6,12 +6,12 @@ set lzdl=https://down.eebbk.top/bin/lzdl.7z
 
 set bff=%link%ilyjx1mmo8le
 set Apatch=%link%inFs31mmjt0j
-set elf=%link%ivkt61moefob
+set eelf=%link%ivkt61moefob
 set toolbox=%link%i5OBZ1obvyhe
 set qdriver=%link%iEPJm15796ti
 set adriver=%link%iujls1xh30pa
-set apboot=%link%i808H1obvqwb
-set boot=%link%id0yi1obvupi
+set eapboot=%link%i808H1obvqwb
+set eboot=%link%id0yi1obvupi
 set update_log=%link%iXBcH1mi1uzi
 set logo=%link%iK54c1anp6ub
 set link2sd=%link%iMaQU1obyksj

@@ -1,9 +1,9 @@
 @ECHO OFF
-set link=https://ycly.lanzouw.com/
+set link=https://ycly.lanzn.com/
 set main_docs=https://kdocs.cn/l/cdTOie6LVgAG
 set block_docs=https://kdocs.cn/l/cune7WAK6oZX
-set toolbox=%link%iX1Fa17qt5sh
-set magisk=%link%itAp917ok08b
+set toolbox=%link%i58ET21zzy4h
+set magisk=%link%iuhRL1nrxlta
 set spd=%link%iWBeE15lim1e
 set pac=%link%i9iCC1544q0b
 set folder=%link%iln5S15nlosd
@@ -14,6 +14,6 @@ set lzdl=https://down.eebbk.top/bin/lzdl.7z
 set checksum_spd=72803FD7
 set checksum_stock=1C6A2C42
 set checksum_root=D72716AD
-set checksum_magisk=05304293
+set checksum_magisk=36E02F59
 set A=attrib +s +h /s /d
 set B=attrib -s -h /s /d

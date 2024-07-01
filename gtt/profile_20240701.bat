@@ -1,0 +1,2 @@
+@ECHO OFF
+set serial=7013T380003FX
